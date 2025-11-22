@@ -1,0 +1,14 @@
+# Django Framework
+Django>=5.2,<5.3
+
+# Django REST Framework for API
+djangorestframework>=3.14.0
+
+# CORS headers for frontend communication
+django-cors-headers>=4.3.0
+
+# Cryptography for data encryption
+cryptography>=41.0.0
+
+# Additional recommended packages
+python-dotenv>=1.0.0  # For environment variable management
